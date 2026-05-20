@@ -19,22 +19,6 @@ This is the Chat + Game Application crafted with MERN Stack & Socket.
 - 🚀 TIC-TAC-TOE Game (One vs One)
 - 🚀 Type Race Game (MultiPlayer)
 
-## Onboarding and Games Screen
-
-| ![Demo](/assets/demo.png) | ![Game](/assets/game.png) |
-| ------------------------- | ------------------------- |
-
-## Canvas Drawing
-
-![Canvas Drawing](/assets/canvas.png)
-
-## Tic-Tac-Toe Game
-
-![TicTacToe Game](/assets/tic-tac-toe.png)
-
-## Typing Race Game
-
-![TicTacToe Game](/assets/type-race.png)
 
 ## Run Locally
 
